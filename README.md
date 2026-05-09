@@ -54,9 +54,7 @@ Proyecto_JSCAMP/
 ├── vite.config.js
 └── README.md
 
-## 🎨 El Proyecto Práctico
 
-![CleanShot 2025-10-01 at 20 26 08@2x](https://github.com/user-attachments/assets/d9abec4d-ac41-4962-845c-93006bfe768b)
 
 ## 🚀 Objetivos del Proyecto
 
